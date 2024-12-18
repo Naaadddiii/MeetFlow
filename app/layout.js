@@ -38,14 +38,14 @@ export default function RootLayout({ children }) {
               {/* Social Media Links */}
               <div className="flex justify-center space-x-4 mt-4">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Naaadddiii"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <Github className="h-6 w-6 text-gray-600 hover:text-gray-800" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/padmanaban-v-b9846a1b0"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
